@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladimirlevchenko
+- 👋 Hi, I’m Vladimir (@vladimirlevchenko)
 - 👀 I’m interested in chemistry in its all forms - from the understanding of processes on the atomic scale to the application of novel solutions to solve practical problems of humanity.
 - 🌱 I’m currently working as development chemist at paints & coatings manufacturer Dynea AS
 - 💞️ I’m holding PhD in organometallic chemistry and catalysis from the UiO and passionate about the digitalization in chemistry.
